@@ -1,3 +1,3 @@
 # Server-Client
 
-Run server2.py before client2.py
+Run **server2.py** before **client2.py**
